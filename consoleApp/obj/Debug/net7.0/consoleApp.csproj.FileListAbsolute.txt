@@ -1,0 +1,15 @@
+/Users/baiturtashbaev/Documents/Байтур/4 semester/2colloqium/bd/consoleApp/consoleApp/bin/Debug/net7.0/consoleApp
+/Users/baiturtashbaev/Documents/Байтур/4 semester/2colloqium/bd/consoleApp/consoleApp/bin/Debug/net7.0/consoleApp.deps.json
+/Users/baiturtashbaev/Documents/Байтур/4 semester/2colloqium/bd/consoleApp/consoleApp/bin/Debug/net7.0/consoleApp.runtimeconfig.json
+/Users/baiturtashbaev/Documents/Байтур/4 semester/2colloqium/bd/consoleApp/consoleApp/bin/Debug/net7.0/consoleApp.dll
+/Users/baiturtashbaev/Documents/Байтур/4 semester/2colloqium/bd/consoleApp/consoleApp/bin/Debug/net7.0/consoleApp.pdb
+/Users/baiturtashbaev/Documents/Байтур/4 semester/2colloqium/bd/consoleApp/consoleApp/obj/Debug/net7.0/consoleApp.csproj.AssemblyReference.cache
+/Users/baiturtashbaev/Documents/Байтур/4 semester/2colloqium/bd/consoleApp/consoleApp/obj/Debug/net7.0/consoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/baiturtashbaev/Documents/Байтур/4 semester/2colloqium/bd/consoleApp/consoleApp/obj/Debug/net7.0/consoleApp.AssemblyInfoInputs.cache
+/Users/baiturtashbaev/Documents/Байтур/4 semester/2colloqium/bd/consoleApp/consoleApp/obj/Debug/net7.0/consoleApp.AssemblyInfo.cs
+/Users/baiturtashbaev/Documents/Байтур/4 semester/2colloqium/bd/consoleApp/consoleApp/obj/Debug/net7.0/consoleApp.csproj.CoreCompileInputs.cache
+/Users/baiturtashbaev/Documents/Байтур/4 semester/2colloqium/bd/consoleApp/consoleApp/obj/Debug/net7.0/consoleApp.dll
+/Users/baiturtashbaev/Documents/Байтур/4 semester/2colloqium/bd/consoleApp/consoleApp/obj/Debug/net7.0/refint/consoleApp.dll
+/Users/baiturtashbaev/Documents/Байтур/4 semester/2colloqium/bd/consoleApp/consoleApp/obj/Debug/net7.0/consoleApp.pdb
+/Users/baiturtashbaev/Documents/Байтур/4 semester/2colloqium/bd/consoleApp/consoleApp/obj/Debug/net7.0/consoleApp.genruntimeconfig.cache
+/Users/baiturtashbaev/Documents/Байтур/4 semester/2colloqium/bd/consoleApp/consoleApp/obj/Debug/net7.0/ref/consoleApp.dll
